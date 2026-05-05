@@ -1,6 +1,7 @@
 import qrcode
 import json
 
+# This script generates a QR code for a student's attendance record.
 # Example student data
 student_data = {
     "student_id": "2025_001",
